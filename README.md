@@ -1,4 +1,4 @@
-# Physical Map of airstrikes in Ukraine
+# Physical Air Alert Map of Ukraine
 ![alt text](https://github.com/MoonLighTingPY/airstrike_map_Ukraine/blob/main/images/17.jpg?raw=true)
 ## Introduction
 This project is made on Raspberry Pi Pico, using Cicruit Python
