@@ -5,7 +5,7 @@ This project was built on Raspberry Pi Pico, using Cicruit Python
 
 Capabilities:
 - Changes color of each district, depending on it's state of airstrike
-- Doesn't have any delay from online maps
+- Doesn't have any delay from realtime online maps
 - Works from a simple outlet
   
 Features:
