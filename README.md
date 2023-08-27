@@ -15,7 +15,7 @@ Features:
 *API: https://alerts.com.ua/*
 
 ## Making process
-This whole project was a challange for me, which inspired me and made me learn a lot.
+This whole project was a interesting adventure for me, and it inspired me, and also made me learn a lot.
 Originally, this project was meant to be working on Arduino, but it turned out not to be as efficient and cheap.
 ![alt text](https://github.com/MoonLighTingPY/airstrike_map_Ukraine/blob/main/images/2.jpg?raw=true)
 Later on, when Pi Pico was chosen for it's compactness, it turned out that it's GPIO pins output only 3.3V of current, while LED strip needs 5V input for signal,
