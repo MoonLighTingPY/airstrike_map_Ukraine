@@ -1,11 +1,11 @@
 # Physical Air Alert Map of Ukraine
 ![alt text](https://github.com/MoonLighTingPY/airstrike_map_Ukraine/blob/main/images/17.jpg?raw=true)
 ## Introduction
-This project is made on Raspberry Pi Pico, using Cicruit Python
+This project was built on Raspberry Pi Pico, using Cicruit Python
 
 Capabilities:
 - Changes color of each district, depending on it's state of airstrike
-- Doesn't have any delay with realtime online maps
+- Doesn't have any delay from online maps
 - Works from a simple outlet
   
 Features:
